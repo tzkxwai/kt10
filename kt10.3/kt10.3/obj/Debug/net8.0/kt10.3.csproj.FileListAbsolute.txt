@@ -1,0 +1,14 @@
+C:\Users\n9854\source\repos\kt10.3\kt10.3\bin\Debug\net8.0\kt10.3.exe
+C:\Users\n9854\source\repos\kt10.3\kt10.3\bin\Debug\net8.0\kt10.3.deps.json
+C:\Users\n9854\source\repos\kt10.3\kt10.3\bin\Debug\net8.0\kt10.3.runtimeconfig.json
+C:\Users\n9854\source\repos\kt10.3\kt10.3\bin\Debug\net8.0\kt10.3.dll
+C:\Users\n9854\source\repos\kt10.3\kt10.3\bin\Debug\net8.0\kt10.3.pdb
+C:\Users\n9854\source\repos\kt10.3\kt10.3\obj\Debug\net8.0\kt10.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n9854\source\repos\kt10.3\kt10.3\obj\Debug\net8.0\kt10.3.AssemblyInfoInputs.cache
+C:\Users\n9854\source\repos\kt10.3\kt10.3\obj\Debug\net8.0\kt10.3.AssemblyInfo.cs
+C:\Users\n9854\source\repos\kt10.3\kt10.3\obj\Debug\net8.0\kt10.3.csproj.CoreCompileInputs.cache
+C:\Users\n9854\source\repos\kt10.3\kt10.3\obj\Debug\net8.0\kt10.3.dll
+C:\Users\n9854\source\repos\kt10.3\kt10.3\obj\Debug\net8.0\refint\kt10.3.dll
+C:\Users\n9854\source\repos\kt10.3\kt10.3\obj\Debug\net8.0\kt10.3.pdb
+C:\Users\n9854\source\repos\kt10.3\kt10.3\obj\Debug\net8.0\kt10.3.genruntimeconfig.cache
+C:\Users\n9854\source\repos\kt10.3\kt10.3\obj\Debug\net8.0\ref\kt10.3.dll
